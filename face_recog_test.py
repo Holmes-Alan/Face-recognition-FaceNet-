@@ -109,7 +109,7 @@ mtcnn = MTCNN(
     thresholds=[0.6, 0.7, 0.7], factor=0.709, post_process=True,
     device=device
 )
-resnet = torch.load('models/own_face.pth', map_location=torch.device('cpu'))
+resnet = torch.load('models/own_face.pth')
 resnet = resnet.to(device).eval()
 
 trans = transforms.Compose([
