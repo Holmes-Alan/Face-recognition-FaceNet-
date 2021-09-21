@@ -11,7 +11,7 @@ By Zhi-Song Liu, Wan-Chi Siu and H. Anthony Chan
     Pytorch > 1.3
     Scikit-image
     NVIDIA GPU + CUDA
-    ![facenet](https://github.com/timesler/facenet-pytorch)
+    facenet(https://github.com/Holmes-Alan/SR-VAE)
     
 # Training
 
