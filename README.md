@@ -1,6 +1,6 @@
 # Face recognition
 
-Simple implementation on face recognition using FaceNet with training and testing
+Simple implementation on face recognition using FaceNet for training and testing
 
 By Zhi-Song Liu, Wan-Chi Siu and H. Anthony Chan
 
