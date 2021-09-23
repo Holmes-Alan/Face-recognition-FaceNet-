@@ -25,8 +25,11 @@ The "xxx" folder is created under folder "train_data"
 create a 'id_class_train.txt' file that gives each id a number for training and testing.
 
 For example, inside the 'id_class_train.txt' file, you have
+
 0:Obama
+
 1:Scarlett
+
 2:MJ
 
 3. Train the face recognition model
