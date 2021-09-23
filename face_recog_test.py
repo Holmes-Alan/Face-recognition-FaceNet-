@@ -120,7 +120,7 @@ trans = transforms.Compose([
 ])
 
 # Load Imagenet Synsets
-with open('image/id_class_train.txt', 'r') as f:
+with open('train_data/id_class_train.txt', 'r') as f:
     synsets = f.readlines()
 synsets = [x.strip() for x in synsets]
 key_to_classname = [line.split(':') for line in synsets]
